@@ -1,5 +1,5 @@
 ---
-title: "Psyc 3400"
+title: "DEW version Psyc 3400"
 output: html_document
 ---
 
@@ -16,12 +16,12 @@ output: html_document
 
 </style>
 
-# Psyc 3400 Spring 2019
+# DEW's version of Psyc 3400 Spring 2019
 
 <div class="row">
 <div class="col-sm-6">
 
-### *Statistical Methods in Psychological Research* 
+### *Statistical Methods in Psychological Research*
 
 #### Matthew Crump
 Last updated: `r Sys.Date()`
@@ -30,22 +30,14 @@ All materials are totally **free and open**, including [textbook](https://crumpl
 
 ### Copying/Adopting these materials
 
-This website is written using R Markdown. The source code is here [https://github.com/CrumpLab/psyc3400](https://github.com/CrumpLab/psyc3400). For anyone interested in adopting these materials, the idea is you can fork the repos for the [website](https://github.com/CrumpLab/psyc3400), the [textbook](https://github.com/CrumpLab/statistics), and the [lab manual](https://github.com/CrumpLab/statisticsLab). Then edit as desired for your own purposes. 
+This website is written using R Markdown. The source code is here  Then edit as desired for your own purposes. 
 
 </div>
 <div class="col-sm-6">
 
-<a href="https://crumplab.github.io/statistics/">
-```{r statsTextbook, out.width=200, echo=F}
-knitr::include_graphics("images/TextbookCover.png")
-```
-</a>
 
-<a href="https://crumplab.github.io/statisticsLab/">
-```{r statsLabManual, out.width=200, echo=F}
-knitr::include_graphics("images/LabmanualCover.png")
-```
-</a>
+
+
 
 </div>
 </div>
